@@ -1,0 +1,10 @@
+html{
+    color:darkBlue;
+    font-family: sans-serif;
+  }
+  
+  #container{
+  /*   border: 1px solid black; */
+    width: 30rem;
+    visibility: visible;
+  }
